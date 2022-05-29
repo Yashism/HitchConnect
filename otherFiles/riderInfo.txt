@@ -1,0 +1,7 @@
+you123@gmail.com,Arlington,Dallas,6320651651065165,Ben Dover,Ford F-150,$49
+you123@gmail.com,Cedar Hill,Haltom City,5135135125135122,Sriram,Toyota Corolla,$35
+ak@gmail.com,Dallas,Duncanville,6011559987452135,Ben Dover,Ford F-150,$49
+a@gmail.com,Cedar Hill,Carrollton,6012112121212122,Jones,Dodge Charger,$51
+hayaat@gmail.com,Allen,Carrollton,3111111111111111,Alex,Lexus IS350,$65
+vijayshri@gmail.com,Arlington,Dallas,4035351351351315,Sriram,Toyota Corolla,$35
+yash@email.com,Arlington,Dallas,5441264624462426,Jones,Dodge Charger,$51

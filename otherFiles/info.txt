@@ -1,0 +1,6 @@
+Alex,Lexus IS350,$65,TX1234
+Ali,Toyota Corolla,$35,TX6874
+Jones,Dodge Charger,$51,TX4578
+Ben Dover,Ford F-150,$49,GA4938
+Sriram,Toyota Corolla,$35,LA9034
+Joseph Joestar,Toyota Corolla,$35,LA3423
