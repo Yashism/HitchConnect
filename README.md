@@ -1,1 +1,1 @@
-# HitchConnect2
+# HitchConnect
